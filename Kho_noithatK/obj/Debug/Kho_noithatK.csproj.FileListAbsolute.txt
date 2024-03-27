@@ -1,0 +1,111 @@
+D:\source code\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_noithatK.csproj.AssemblyReference.cache
+D:\source code\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_noithatK.dangky.resources
+D:\source code\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_noithatK.chitietpn.resources
+D:\source code\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_noithatK.chitietxuat.resources
+D:\source code\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_noithatK.login.resources
+D:\source code\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_noithatK.Hang.resources
+D:\source code\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_noithatK.LoaiHang.resources
+D:\source code\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_noithatK.NhaCungCap.resources
+D:\source code\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_noithatK.Nhanvien.resources
+D:\source code\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_noithatK.NhapHang.resources
+D:\source code\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.Properties.Resources.resources
+D:\source code\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_noithatK.thongkehangton.resources
+D:\source code\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_noithatK.TrangChu.resources
+D:\source code\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_noithatK.XuatHang.resources
+D:\source code\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_noithatK.csproj.GenerateResource.cache
+D:\source code\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_noithatK.csproj.CoreCompileInputs.cache
+D:\source code\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.exe
+D:\source code\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.pdb
+D:\source code\Kho_Adamstore\Kho_noithatK\obj\Debug\Kho_noithatK.csproj.AssemblyReference.cache
+D:\source code\Kho_Adamstore\Kho_noithatK\obj\Debug\Kho_noithatK.dangky.resources
+D:\source code\Kho_Adamstore\Kho_noithatK\obj\Debug\Kho_noithatK.chitietpn.resources
+D:\source code\Kho_Adamstore\Kho_noithatK\obj\Debug\Kho_noithatK.chitietxuat.resources
+D:\source code\Kho_Adamstore\Kho_noithatK\obj\Debug\Kho_noithatK.login.resources
+D:\source code\Kho_Adamstore\Kho_noithatK\obj\Debug\Kho_noithatK.Hang.resources
+D:\source code\Kho_Adamstore\Kho_noithatK\obj\Debug\Kho_noithatK.LoaiHang.resources
+D:\source code\Kho_Adamstore\Kho_noithatK\obj\Debug\Kho_noithatK.NhaCungCap.resources
+D:\source code\Kho_Adamstore\Kho_noithatK\obj\Debug\Kho_noithatK.Nhanvien.resources
+D:\source code\Kho_Adamstore\Kho_noithatK\obj\Debug\Kho_noithatK.NhapHang.resources
+D:\source code\Kho_Adamstore\Kho_noithatK\obj\Debug\Kho_Adamstore.Properties.Resources.resources
+D:\source code\Kho_Adamstore\Kho_noithatK\obj\Debug\Kho_noithatK.thongkehangton.resources
+D:\source code\Kho_Adamstore\Kho_noithatK\obj\Debug\Kho_noithatK.TrangChu.resources
+D:\source code\Kho_Adamstore\Kho_noithatK\obj\Debug\Kho_noithatK.XuatHang.resources
+D:\source code\Kho_Adamstore\Kho_noithatK\obj\Debug\Kho_noithatK.csproj.GenerateResource.cache
+D:\source code\Kho_Adamstore\Kho_noithatK\obj\Debug\Kho_noithatK.csproj.CoreCompileInputs.cache
+D:\source code\Kho_Adamstore\Kho_noithatK\obj\Debug\Kho_Adamstore.exe
+D:\source code\Kho_Adamstore\Kho_noithatK\obj\Debug\Kho_Adamstore.pdb
+D:\source code\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.csproj.AssemblyReference.cache
+D:\source code\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.dangky.resources
+D:\source code\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.chitietpn.resources
+D:\source code\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.chitietxuat.resources
+D:\source code\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.login.resources
+D:\source code\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.Hang.resources
+D:\source code\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.LoaiHang.resources
+D:\source code\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.NhaCungCap.resources
+D:\source code\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.Nhanvien.resources
+D:\source code\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.NhapHang.resources
+D:\source code\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_Adamstore.Properties.Resources.resources
+D:\source code\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.thongkehangton.resources
+D:\source code\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.TrangChu.resources
+D:\source code\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.XuatHang.resources
+D:\source code\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.csproj.GenerateResource.cache
+D:\source code\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.csproj.CoreCompileInputs.cache
+D:\source code\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_Adamstore.exe
+D:\source code\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_Adamstore.pdb
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.csproj.AssemblyReference.cache
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.dangky.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.chitietpn.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.chitietxuat.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.login.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.Hang.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.LoaiHang.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.NhaCungCap.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.Nhanvien.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.NhapHang.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_Adamstore.Properties.Resources.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.thongkehangton.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.TrangChu.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.XuatHang.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.csproj.GenerateResource.cache
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_noithatK.csproj.CoreCompileInputs.cache
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_Adamstore.exe
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_Adamstore\obj\Debug\Kho_Adamstore.pdb
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.csproj.AssemblyReference.cache
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.dangky.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.chitietpn.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.chitietxuat.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.login.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.Hang.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.LoaiHang.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.NhaCungCap.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.Nhanvien.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.NhapHang.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_Adamstore.Properties.Resources.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.thongkehangton.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.TrangChu.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.XuatHang.resources
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.csproj.GenerateResource.cache
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.csproj.CoreCompileInputs.cache
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_Adamstore.exe
+C:\Users\Kien\Desktop\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_Adamstore.pdb
+C:\Users\Kien\Desktop\Test01\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.csproj.AssemblyReference.cache
+C:\Users\Kien\Desktop\Test01\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.dangky.resources
+C:\Users\Kien\Desktop\Test01\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.chitietpn.resources
+C:\Users\Kien\Desktop\Test01\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.chitietxuat.resources
+C:\Users\Kien\Desktop\Test01\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.login.resources
+C:\Users\Kien\Desktop\Test01\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.Hang.resources
+C:\Users\Kien\Desktop\Test01\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.LoaiHang.resources
+C:\Users\Kien\Desktop\Test01\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.NhaCungCap.resources
+C:\Users\Kien\Desktop\Test01\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.Nhanvien.resources
+C:\Users\Kien\Desktop\Test01\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.NhapHang.resources
+C:\Users\Kien\Desktop\Test01\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_Adamstore.Properties.Resources.resources
+C:\Users\Kien\Desktop\Test01\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.thongkehangton.resources
+C:\Users\Kien\Desktop\Test01\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.TrangChu.resources
+C:\Users\Kien\Desktop\Test01\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.XuatHang.resources
+C:\Users\Kien\Desktop\Test01\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.csproj.GenerateResource.cache
+C:\Users\Kien\Desktop\Test01\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_noithatK.csproj.CoreCompileInputs.cache
+C:\Users\Kien\Desktop\Test01\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_Adamstore.exe
+C:\Users\Kien\Desktop\Test01\Kho_noithatK\Kho_noithatK\obj\Debug\Kho_Adamstore.pdb
+C:\Users\Kien\Desktop\Test01\Kho_noithatK\Kho_noithatK\bin\Debug\Kho_Adamstore.exe.config
+C:\Users\Kien\Desktop\Test01\Kho_noithatK\Kho_noithatK\bin\Debug\Kho_Adamstore.exe
+C:\Users\Kien\Desktop\Test01\Kho_noithatK\Kho_noithatK\bin\Debug\Kho_Adamstore.pdb
